@@ -1,1 +1,5 @@
-
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://lykosis-api.onrender.com/$1" }
+  ]
+}
