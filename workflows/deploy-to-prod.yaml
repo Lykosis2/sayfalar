@@ -1,0 +1,28 @@
+name: CI
+on:
+  push:
+    tags:
+      - '**'
+
+jobs:
+  build:
+    env:
+
+        KUBECONFIG: '${{ github.workspace }}/.kube/config'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - run: |
+        mkdir -p '${{ github.workspace }}/.kube' \
+          && echo '${{ secrets.KubeConfigProd}}' | base64 -d > $KUBECONFIG
+
+    - run: 'docker build -t lykosis-nextjs .'
+
+    - run: 'docker tag lykosis-nextjs:latest localhost:5000/lykosis-nextjs:latest'
+
+    - run: 'kubectl port-forward service/registry-service 5000:5000 &'
+
+    - run: 'docker push localhost:5000/lykosis-nextjs:latest'
+
+    - run: 'kubectl rollout restart deployment lykosis-nextjs-app'
