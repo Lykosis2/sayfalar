@@ -1,5 +1,10 @@
 {
-  "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://lykosis-api.onrender.com/$1" }
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Content-Type", "value": "text/html; charset=utf-8" }
+      ]
+    }
   ]
 }
