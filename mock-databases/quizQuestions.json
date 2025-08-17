@@ -1,0 +1,203 @@
+{
+    "1": {
+      "questionNumber": 1,
+      "question": "What is the first step in a skincare routine?",
+      "answers": [
+        "Cleansing",
+        "Moisturizing",
+        "Exfoliating",
+        "Toning"
+      ]
+    },
+    "2": {
+      "questionNumber": 2,
+      "question": "Which ingredient is known for its anti-aging properties?",
+      "answers": [
+        "Retinol",
+        "Hyaluronic Acid",
+        "Vitamin C",
+        "Niacinamide"
+      ]
+    },
+    "3": {
+      "questionNumber": 3,
+      "question": "What does SPF stand for?",
+      "answers": [
+        "Sun Protection Factor",
+        "Skin Perfecting Formula",
+        "Superior Protection Formula",
+        "Sunscreen Prevents Frowning"
+      ]
+    },
+    "4": {
+      "questionNumber": 4,
+      "question": "Which type of cleanser is best for oily skin?",
+      "answers": [
+        "Gel cleanser",
+        "Cream cleanser",
+        "Oil cleanser",
+        "Foam cleanser"
+      ]
+    },
+    "5": {
+      "questionNumber": 5,
+      "question": "What does AHAs stand for in skincare?",
+      "answers": [
+        "Alpha Hydroxy Acids",
+        "Antioxidant Hydrating Agents",
+        "Advanced Healing Agents",
+        "Active Hydration Accelerators"
+      ]
+    },
+    "6": {
+      "questionNumber": 6,
+      "question": "Which skincare product is designed to remove dead skin cells?",
+      "answers": [
+        "Exfoliator",
+        "Serum",
+        "Toner",
+        "Essence"
+      ]
+    },
+    "7": {
+      "questionNumber": 7,
+      "question": "What is the purpose of a face mask in skincare?",
+      "answers": [
+        "To provide deep hydration",
+        "To remove makeup",
+        "To reduce fine lines and wrinkles",
+        "To protect the skin from UV rays"
+      ]
+    },
+    "8": {
+      "questionNumber": 8,
+      "question": "Which vitamin helps brighten the skin?",
+      "answers": [
+        "Vitamin C",
+        "Vitamin E",
+        "Vitamin A",
+        "Vitamin B"
+      ]
+    },
+    "9": {
+      "questionNumber": 9,
+      "question": "What is the recommended order of applying skincare products?",
+      "answers": [
+        "Cleanser, Toner, Serum, Moisturizer, Sunscreen",
+        "Toner, Cleanser, Serum, Moisturizer, Sunscreen",
+        "Cleanser, Serum, Toner, Moisturizer, Sunscreen",
+        "Serum, Cleanser, Toner, Moisturizer, Sunscreen"
+      ]
+    },
+    "10": {
+      "questionNumber": 10,
+      "question": "Which skincare product helps to reduce puffiness and dark circles under the eyes?",
+      "answers": [
+        "Eye cream",
+        "Face oil",
+        "Spot treatment",
+        "Face mask"
+      ]
+    },
+    "11": {
+      "questionNumber": 11,
+      "question": "What is the function of a toner in skincare?",
+      "answers": [
+        "To balance the skin's pH",
+        "To remove makeup",
+        "To moisturize the skin",
+        "To exfoliate the skin"
+      ]
+    },
+    "12": {
+      "questionNumber": 12,
+      "question": "Which ingredient is known for its soothing properties?",
+      "answers": [
+        "Aloe Vera",
+        "Tea Tree Oil",
+        "Witch Hazel",
+        "Salicylic Acid"
+      ]
+    },
+    "13": {
+      "questionNumber": 13,
+      "question": "What is the purpose of a night cream in skincare?",
+      "answers": [
+        "To hydrate and nourish the skin while you sleep",
+        "To remove makeup",
+        "To provide sun protection",
+        "To reduce redness and inflammation"
+      ]
+    },
+    "14": {
+      "questionNumber": 14,
+      "question": "What is the recommended frequency of exfoliating the skin?",
+      "answers": [
+        "1-2 times per week",
+        "Every day",
+        "Once a month",
+        "Only when needed"
+      ]
+    },
+    "15": {
+      "questionNumber": 15,
+      "question": "What is the main benefit of using a face oil?",
+      "answers": [
+        "To provide deep hydration and nourishment",
+        "To cleanse the skin",
+        "To prevent acne breakouts",
+        "To reduce the appearance of pores"
+      ]
+    },
+    "16": {
+      "questionNumber": 16,
+      "question": "What is the purpose of a primer in makeup?",
+      "answers": [
+        "To create a smooth base for foundation",
+        "To add color to the cheeks",
+        "To lengthen and volumize the eyelashes",
+        "To define and shape the eyebrows"
+      ]
+    },
+    "17": {
+      "questionNumber": 17,
+      "question": "What is the recommended time to leave on a sheet mask?",
+      "answers": [
+        "15-20 minutes",
+        "30-45 minutes",
+        "1-2 hours",
+        "Overnight"
+      ]
+    },
+    "18": {
+      "questionNumber": 18,
+      "question": "What is the function of a BB cream in makeup?",
+      "answers": [
+        "To provide lightweight coverage with added skincare benefits",
+        "To add volume and length to the eyelashes",
+        "To contour and highlight the face",
+        "To add color to the lips"
+      ]
+    },
+    "19": {
+      "questionNumber": 19,
+      "question": "Which ingredient is known for its moisturizing properties?",
+      "answers": [
+        "Hyaluronic Acid",
+        "Glycolic Acid",
+        "Salicylic Acid",
+        "Lactic Acid"
+      ]
+    },
+    "20": {
+      "questionNumber": 20,
+      "question": "What is the purpose of a lip balm in skincare?",
+      "answers": [
+        "To hydrate and protect the lips",
+        "To remove dead skin cells",
+        "To add color to the lips",
+        "To reduce the appearance of wrinkles around the mouth"
+      ]
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "name": "Micellar Water 125 ml",
+    "size":"125 ml",
+    "description": "An enzyme peel that gently exfoliates and brightens the skin, revealing a smooth and radiant complexion.",
+    "price": 366,
+    "point1":10,
+    "images":"/products/peptit.png",
+    "categories":[0,5,7]
+  }

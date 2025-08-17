@@ -1,0 +1,9 @@
+{
+    "name": "Tonik 125 ml",
+    "size":"125 ml",
+    "description": "A hydrating serum with hyaluronic acid that locks in moisture and plumps the skin for a youthful look.",
+    "price": 42.50,
+    "point1":11,
+    "images":"glukozamin.png",
+    "categories":[0,3,5]
+  }

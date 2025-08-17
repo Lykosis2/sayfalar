@@ -1,0 +1,9 @@
+{
+    "name": "UVA Koruyucu 10 ml",
+    "size":"10 ml",
+    "description": "A potent vitamin C serum that brightens the complexion and provides essential antioxidant protection.",
+    "price": 400,
+    "point1":12,
+    "images":"/products/c vit.png",
+    "categories":[0,6,7]
+  }

@@ -1,0 +1,117 @@
+{
+    "state":"OK",
+    "products": {
+        "100001": {
+          "name": "Anti Aging Krem  50 ml",
+          "description": "A lightweight anti-aging face cream that hydrates and nourishes the skin, leaving it soft and supple.",
+          "size": "50 ml",
+          "price": 572,
+          "point1": 40,
+          "images":"/products/akne.png",
+          "categories":[0,1,4]
+        },
+        "100002": {
+          "name": "G/G Nemlendirici Krem  50 ml",
+          "description": "A rich and nourishing face cream that deeply hydrates and moisturizes the skin, leaving it soft and supple.",
+          "size":"50 ml",
+          "price": 730,
+          "point1":50,
+          "images":"/products/gece.png",
+          "categories":[0,2,3]
+          
+        },
+        "100003": {
+          "name": "Maske Kuru 50 ml",
+          "description": "A gentle face scrub that exfoliates and removes impurities, leaving the skin smooth and radiant.",
+          "size":"50 ml",
+          "price": 433,
+          "point1": 16,
+          "images":"/products/akne_1.png",
+          "categories":[0,1,2]
+        },
+        "100004": {
+          "name": "Maske Yağlı 50 ml",
+          "size":"50 ml",
+          "description": "An anti-aging eye cream that reduces puffiness and minimizes the appearance of fine lines and wrinkles.",
+          "price": 420,
+          "point1": 15,
+          "images":"/products/retinol.png",
+          "categories":[0,1,5]
+          
+        },
+        "100005": {
+          "name": "Peeling Taneciksiz 50 ml",
+          "size":"50 ml",
+          "description": "A soothing and hydrating rose-infused toner that refreshes and balances the skin's pH.",
+          "price": 436,
+          "point1":17,
+          "images":"/products/ayak kremi.png",
+          "categories":[0,5,6]
+        },
+        "100006": {
+          "name": "UVA Koruyucu 10 ml",
+          "size":"10 ml",
+          "description": "A potent vitamin C serum that brightens the complexion and provides essential antioxidant protection.",
+          "price": 400,
+          "point1":12,
+          "images":"/products/c vit.png",
+          "categories":[0,6,7]
+        },
+        "100007": {
+          "name": "Temizleme jeli 50 ml",
+          "size":"50 ml",
+          "description": "A purifying clay mask that draws out impurities and excess oil, leaving the skin clean and balanced.",
+          "price": 322,
+          "point1":8,
+          "images":"/products/bb dark.png",
+          "categories":[0,7,8]
+        },
+        "100008": {
+          "name": "Temizleme Sütü 50 ml",
+          "size":"50 ml",
+          "description": "An ultra-gentle micellar water that effectively removes makeup and cleanses the skin without harsh rubbing.",
+          "price": 356,
+          "point1":9,
+          "images":"/products/bb light.png",
+          "categories":[0,2,4]
+        },
+        "100009": {
+          "name": "Tonik 125 ml",
+          "size":"125 ml",
+          "description": "A hydrating serum with hyaluronic acid that locks in moisture and plumps the skin for a youthful look.",
+          "price": 42.50,
+          "point1":11,
+          "images":"/products/glukozamin.png",
+          "categories":[0,3,5]
+        },
+        "100010": {
+          "name": "Body Tonik 125 ml",
+          "size":"125 ml",
+          "description": "A luxurious night cream that nourishes and repairs the skin while you sleep, revealing a radiant complexion.",
+          "price": 380,
+          "point1":12,
+          "images":"/products/onarıcı.png",
+          "categories":[0,4,6]
+        },
+        "100011": {
+          "name": "Micellar Water 125 ml",
+          "size":"125 ml",
+          "description": "An enzyme peel that gently exfoliates and brightens the skin, revealing a smooth and radiant complexion.",
+          "price": 366,
+          "point1":10,
+          "images":"/products/peptit.png",
+          "categories":[0,5,7]
+        },
+        "100012": {
+          "name": "Duş Jeli Esans1 250 ml",
+          "size":"250 ml",
+          "description": "A cooling and soothing aloe vera gel that calms and hydrates the skin after sun exposure or irritation.",
+          "price":245,
+          "point1": 8,
+          "images":"/products/tuz peeling.png",
+          "categories":[0,6,8]
+        }
+      }
+      
+      
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Maske Yağlı 50 ml",
+    "size":"50 ml",
+    "description": "An anti-aging eye cream that reduces puffiness and minimizes the appearance of fine lines and wrinkles.",
+    "price": 420,
+    "point1": 15,
+    "images":"/products/retinol.png",
+    "categories":[0,1,5]
+    
+  }
