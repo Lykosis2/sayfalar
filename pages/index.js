@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main style={{ padding: "24px", fontFamily: "sans-serif" }}>
+    <main style={{padding:"24px", fontFamily:"sans-serif"}}>
       <h1>LYKOSis — Çalışıyor 🎉</h1>
-      <p>Bu ana sayfa Next.js ile render edildi.</p>
+      <p>Next.js ana sayfa testi.</p>
     </main>
   );
 }
